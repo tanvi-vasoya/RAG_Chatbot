@@ -1,0 +1,16 @@
+
+Introduction to LangChain
+
+LangChain is an open-source framework designed for building applications powered by Large Language Models (LLMs).
+
+Core Components:
+- Document Loaders
+- Text Splitters
+- Embedding Models
+- Vector Stores
+- Retrievers
+- Chains
+- Agents
+
+LangChain simplifies the development of Retrieval-Augmented Generation (RAG) systems by connecting
+LLMs with external knowledge sources such as PDFs, databases, and APIs.

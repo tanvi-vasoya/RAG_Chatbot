@@ -1,0 +1,25 @@
+
+Machine Learning Basics
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data
+without being explicitly programmed.
+
+Types of Machine Learning:
+1. Supervised Learning
+   - Uses labeled data
+   - Example: Spam email detection
+
+2. Unsupervised Learning
+   - Finds hidden patterns in unlabeled data
+   - Example: Customer segmentation
+
+3. Reinforcement Learning
+   - Learns through rewards and penalties
+   - Example: Self-driving cars and robotics
+
+Applications of Machine Learning:
+- Image Recognition
+- Speech Processing
+- Recommendation Systems
+- Fraud Detection
+- Medical Diagnosis

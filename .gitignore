@@ -17,3 +17,14 @@ chroma_db/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+src/__pycache__/
+
+
+# Vector database
+data/vector_store/
