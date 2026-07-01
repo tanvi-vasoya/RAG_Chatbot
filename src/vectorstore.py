@@ -120,9 +120,7 @@ class ChromaVectorStore:
         return self.search(query_embedding, top_k)
 
 
-# ------------------------------
 # Example Usage
-# ------------------------------
 
 if __name__ == "__main__":
 
