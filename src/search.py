@@ -64,27 +64,26 @@ class RAGSearch:
         )
 
         prompt = f"""
-You are a helpful AI assistant.
+            You are a helpful AI assistant.
+        
+            Answer ONLY using the context below.
 
-Answer ONLY using the context below.
+            Context:
+                {context}
 
-Context:
-{context}
+            Question:
+                {query}
 
-Question:
-{query}
-
-Answer:
-"""
+                Answer:
+            """
 
         response = self.llm.invoke(prompt)
 
         return response.content
 
 
-# ------------------------------
+
 # Example Usage
-# ------------------------------
 
 if __name__ == "__main__":
 
