@@ -1,3 +1,6 @@
+## Project Structure
+```text
+
 RAG_Chatbot/
 │
 ├── .venv/                    
